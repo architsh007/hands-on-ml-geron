@@ -10,4 +10,5 @@ This section corresponds to **Chapter 1** of *Hands-On Machine Learning* by Aur�
 
 ## Contents
 - `01_rules_vs_learning.ipynb` — Why learning beats rules
-- `02_learning_curve_demo.ipynb` — Training vs test behavior (coming next)
+- `02_learning_curve_demo.ipynb` — Training vs test error and generalization
+
