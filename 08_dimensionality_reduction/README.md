@@ -158,15 +158,5 @@ Choosing the correct method depends on the task:
 - Matplotlib
 - Scikit-learn
 
----
-
-# Next Chapter
-
-The next chapter focuses on **Clustering and Unsupervised Learning**, including:
-
-- K-Means
-- MiniBatch K-Means
-- DBSCAN
-- Gaussian Mixture Models
-
 These algorithms allow us to **discover structure in unlabeled datasets**.
+
